@@ -22,6 +22,9 @@ This project is created as part of my learning journey into backend development 
 - Database persistence using PostgreSQL
 - JPA/Hibernate for ORM
 - Clean layered architecture (Controller, Service, Repository)
+  <img width="1919" height="1142" alt="image" src="https://github.com/user-attachments/assets/e0a49d4b-1518-495d-9e34-085001728c04" />
+  <img width="800" height="489" alt="image" src="https://github.com/user-attachments/assets/00eb3c41-a121-4b0e-8b3d-065cb30d13ae" />
+  <img width="591" height="437" alt="image" src="https://github.com/user-attachments/assets/0a83851c-f466-48d6-8b58-ca72ded1b53e" />
 
 ---
 
